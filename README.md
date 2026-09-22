@@ -1,6 +1,6 @@
 # EmoSet Emotion Classification
 
-[![Open in molab](https://marimo.io/molab-shield.svg)](https://molab.marimo.io/github/OWNER/REPO/blob/main/projects/emotion_classification/emoset_project.py)
+[![Open in molab](https://marimo.io/molab-shield.svg)](https://github.com/rudauke/emoset_project/emoset_project.py)
 
 Fine-tunes vision transformers on EmoSet-118K for 8-class emotion classification using two-phase transfer learning. Built to run on free-tier GPUs (Molab / Colab).
 
