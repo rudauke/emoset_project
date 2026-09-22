@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Marimo
+__marimo__/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights and downloads
+*.pt
+*.pth
+*.bin
+*.safetensors
+huggingface_cache/
+
+# Dataset (downloaded from HF)
+emotion_dataset/
+
+# Data (if downloaded locally)
+data/
+*.csv
+*.parquet
+
+# Logs
+*.log
+wandb/
+mlruns/
